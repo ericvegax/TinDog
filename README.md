@@ -45,7 +45,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Images Of The Project
 
 <a href="https://imgur.com/9Ps1BGc"><img src="https://i.imgur.com/9Ps1BGc.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/SKYR9fO"><img src="https://i.imgur.com/SKYR9fO.png" title="source: imgur.com" /></a>
