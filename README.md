@@ -39,7 +39,7 @@
 <h3 align="center">TinDog</h3>
 
   <p align="center">
-    A Tinder look-alike for Dogs built with Bootstap, CSS, and HTML
+    A Tinder Clone For Dogs 
     <br />
     <a href="https://github.com/realericvega/TinDog"><strong>Explore the docs »</strong></a>
     <br />
@@ -95,6 +95,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,19 +116,6 @@ Eric - [@heyimeric_](https://twitter.com/heyimeric_)
 Project Link: [https://github.com/realericvega/TinDog](https://github.com/realericvega/TinDog)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
