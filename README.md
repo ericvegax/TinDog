@@ -39,7 +39,7 @@
 <h3 align="center">TinDog</h3>
 
   <p align="center">
-    A Tinder look-alike built with Bootstap, CSS, and HTML
+    A Tinder look-alike for Dogs built with Bootstap, CSS, and HTML
     <br />
     <a href="https://github.com/realericvega/TinDog"><strong>Explore the docs »</strong></a>
     <br />
