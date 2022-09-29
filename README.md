@@ -33,13 +33,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/realericvega/TinDog">
-    <img src="images/Tinder.png" alt="Logo" width="80" height="80">
+    <img src="images/tinder-logo.png" alt="Logo" width="80" height="90">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">TinDog</h3>
 
   <p align="center">
-    project_description
+    A Tinder look-alike built with Bootstap, CSS, and HTML
     <br />
     <a href="https://github.com/realericvega/TinDog"><strong>Explore the docs »</strong></a>
     <br />
